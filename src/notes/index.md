@@ -4,7 +4,7 @@
 
 ***Gioca mondi, non regole!***
 
-Questo gioco di ruolo da tavolo s'ispira alla filosofia della **FKR**: maggiori informazioni sulla **Free Kriegsspiel Revolution** sono reperibili [**qui**](https://www.eclecticagdr.it/2022/04/28/free-kriegsspiel-revolution/).
+Questo gioco di ruolo da tavolo s'ispira alla filosofia della **FKR**: maggiori informazioni sulla **Free Kriegsspiel Revolution** sono reperibili [**qui**](https://eclecticagdr.wordpress.com/2022/04/28/free-kriegsspiel-revolution/).
 
 ## Probabilità
 
