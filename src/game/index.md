@@ -56,7 +56,7 @@ A turno, chi non gioca come arbitro esplicita le intenzioni del proprio personag
 
 In gioco, i personaggi principali potrebbero prendere delle condizioni, fisiche o mentali, che hanno un peso diegetico e sono cancellabili solo ricorrendo alle appropriate modalità di recupero.
 
-Se il proprio personaggio ha una o più condizioni attive, i tiri pertinenti saranno penalizzati. La 5a e ultima condizione è “a pezzi”, che rompe la “plot armor” di un personaggio rendendolo prono alla morte e incapace di fare granché senza aiuto.
+Se il proprio personaggio ha una o più condizioni attive, i tiri pertinenti saranno penalizzati. La 5<sup>a</sup> e ultima condizione è “a pezzi”, che rompe la “plot armor” di un personaggio rendendolo prono alla morte e incapace di fare granché senza aiuto.
 
 #### Avanzamento
 
@@ -103,4 +103,4 @@ Per affidare una risposta alla sorte, tirare un d12:
 [Francesco Catenacci](https://github.com/Medusa) – 2023 – [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it). Fatto con [*Nextcloud Office*](https://nextcloud.com/it/office/). Basato su [*Journeyman*](https://neverendingpretending.net/tag/journeyman-engine.html) di Zac Bir. Immagine derivata da [*D20D*](https://www.deviantart.com/vladar4/art/D20D-576928707) di Vladimir Arabadzhi. PDF PocketMod creato con [*PocketMod Creator*](https://github.com/mullinscr/pocketmod-creator) di Callum Mullins. Repository clonato da [*microsr*](https://github.com/brunobord/microsr) di Bruno Bord.
 
 #### Scheda del personaggio
-Una scheda del personaggio è reperibile nei documenti nella cartella “zippata” contenuta nel repository in *docs/game*.
+Una scheda del personaggio è presente nell'[*ultima release del gioco*](https://github.com/Medusa/Immagina/releases/latest).
