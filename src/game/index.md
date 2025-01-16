@@ -102,5 +102,5 @@ Per affidare una risposta alla sorte, tirare un d12:
 
 [Francesco Catenacci](https://github.com/Medusa) – 2023 – [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it). Fatto con [*Nextcloud Office*](https://nextcloud.com/it/office/). Basato su [*Journeyman*](https://neverendingpretending.net/tag/journeyman-engine.html) di Zac Bir. Immagine derivata da [*D20D*](https://www.deviantart.com/vladar4/art/D20D-576928707) di Vladimir Arabadzhi. PDF PocketMod creato con [*PocketMod Creator*](https://github.com/mullinscr/pocketmod-creator) di Callum Mullins. Repository clonato da [*microsr*](https://github.com/brunobord/microsr) di Bruno Bord.
 
-#### Scheda del personaggio
-Una scheda del personaggio è presente nell'[*ultima release del gioco*](https://github.com/Medusa/Immagina/releases/latest).
+### Scheda del personaggio
+Se si desidera una scheda del personaggio basta scaricare l'[*ultima release del gioco*](https://github.com/Medusa/Immagina/releases/latest).
