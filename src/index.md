@@ -14,3 +14,4 @@
 * [Regolamento](game/)
 * [Note di design & Registro delle modifiche](notes/)
 * [Ultima release](https://github.com/Medusa/Immagina/releases/latest)
+* [Repository su GitHub](https://github.com/Medusa/Immagina)
