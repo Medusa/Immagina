@@ -2,7 +2,7 @@ build:
 	# HTML index
 	pandoc \
 		-f gfm+hard_line_breaks-ascii_identifiers \
-		--metadata=pagetitle:"Immagina — Gioco di ruolo analogico" \
+		--metadata=pagetitle:"Eigengrau — Gioco di ruolo analogico" \
 		-t html \
 		-s \
 		--css style.css \
@@ -10,7 +10,7 @@ build:
 	# The Game
 	pandoc \
 		-f gfm+hard_line_breaks-ascii_identifiers \
-		--metadata=pagetitle:"Immagina — Regolamento" \
+		--metadata=pagetitle:"Eigengrau — Regolamento" \
 		-t html \
 		-s \
 		--css ../style.css \
