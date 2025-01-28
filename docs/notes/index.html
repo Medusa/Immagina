@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Nota di design &amp; Registro delle modifiche</title>
+  <title>Eigenlicht - Gioco di ruolo analogico</title>
   <style type="text/css">
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
@@ -17,19 +17,23 @@
 <h1 id="note-di-design">Note di design</h1>
 <h2 id="filosofia">Filosofia</h2>
 <p><em><strong>Gioca mondi, non regole!</strong></em></p>
-<p>Questo gioco di ruolo da tavolo s'ispira alla filosofia della <strong>FKR</strong>: per saperne di più sulla <strong>Free Kriegsspiel Revolution</strong> basta cliccare <a href="https://eclecticagdr.wordpress.com/2022/04/28/free-kriegsspiel-revolution/"><strong>qui</strong></a>. Il cuore del gioco batte grazie a <a href="https://neverendingpretending.net/tag/journeyman-engine.html"><strong>Journeyman</strong></a> di Zac Bir. La creazione degli scenari trae spunto dalla procedura di preparazione delle avventure in <a href="https://adeptplay.com/tag/trollbabe/"><strong>Trollbabe</strong></a> di Ron Edwards.</p>
+<p>Questo gioco di ruolo da tavolo s'ispira alla filosofia della <strong>FKR</strong>: per saperne di più sulla <strong>Free Kriegsspiel Revolution</strong> basta cliccare <a href="https://eclecticagdr.wordpress.com/2022/04/28/free-kriegsspiel-revolution/"><strong>qui</strong></a>.</p>
+<h2 id="ispirazioni">Ispirazioni</h2>
+<p>Il cuore del gioco batte grazie a <a href="https://neverendingpretending.net/tag/journeyman-engine.html"><em>Journeyman</em></a> di Zac Bir. La creazione degli scenari trae spunto dalla procedura di preparazione delle avventure in <a href="https://adeptplay.com/tag/trollbabe/"><em>Trollbabe</em></a> di Ron Edwards.</p>
 <h2 id="probabilità">Probabilità</h2>
-<p>Per una panoramica sulle probabilità statistiche relative ai tiri di dado previsti in <em><strong>Eigengrau</strong></em>, cliccare <a href="https://snake-eyes.io/?script=LTAEDZgLlAzBDANoglgWwKYDsAuB7AKBFAHZgBOGAZwFcBjOjKqvUeUGrUOvK-IsAEYADAGpq9Rs0IEcoALygA3gCZQAKlAATACwAaUACJdoUdp2GDazSbMqDxnafPOVl0NZdh7R214+GAL4EAA4ATii4APpaKIwAFDgAlASyCsp+WuAOmeDuua45TmZZrvnF2uCg3kXOpd5BoRHRsQnJqXKKSpkAHLUlPeV1PYW+FVojdkMD1R792iMNweGRODFxGIkpaV2ZIvNaItPaIqOOdadTBnvCsz7nJadLTavrbdudGVUl+r7f5vl-n57qUfmVrkCnDU-nUoQFls01q1Nu0dspPFkckC8lYNJUzqD8VcPHj6nMYSUqs8Vi0NlsOulukC+hSFoDhgTmeCiQs7liOdTEW8UR9GYTDsJ+Y9hOzpZyLrdieKnuTjECVW4Ea9kfS0d1JuYcgbdPljRUQWbuRNYXzfJbBdq6ajPvq6tk7W7TW6Ccb-m5rr7bcZAw7ae8GV0MSzg8N3FGfRzifHoTGZqGkU7RbtjfsPdKvXK7EaFVac7cU9a5enhbqXRLYTlLgDrk3gY3FS4la24SDu3dGjSM+G9fXKe3PS2O4Te1O-flW1TVaP8dWdc6xa3o8uJvOpwaZ4mApOBUvN-2tWGRRH0aTc8ZW0dcTYmwfC0eSc-y6epxqB0K19sg6+IIbgvLg8SHCogGIr4KgymBOAQXBSRAA"><strong>qui</strong></a>.</p>
+<p>Per una panoramica sulle probabilità nei tiri di dado previsti in <em>Eigenlicht</em>, cliccare <a href="https://snake-eyes.io/?script=LTAEDZgLlAzBDANoglgWwKYDsAuB7AKBFAHZgBOGAZwFcBjOjKqvUeUGrUOvK-IsAEYADAGpq9Rs0IEcoALygA3gCZQAKlAATACwAaUACJdoUdp2GDazSbMqDxnafPOVl0NZdh7R214+GAL4EAA4ATii4APpaKIwAFDgAlASyCsp+WuAOmeDuua45TmZZrvnF2uCg3kXOpd5BoRHRsQnJqXKKSpkAHLUlPeV1PYW+FVojdkMD1R792iMNweGRODFxGIkpaV2ZIvNaItPaIqOOdadTBnvCsz7nJadLTavrbdudGVUl+r7f5vl-n57qUfmVrkCnDU-nUoQFls01q1Nu0dspPFkckC8lYNJUzqD8VcPHj6nMYSUqs8Vi0NlsOulukC+hSFoDhgTmeCiQs7liOdTEW8UR9GYTDsJ+Y9hOzpZyLrdieKnuTjECVW4Ea9kfS0d1JuYcgbdPljRUQWbuRNYXzfJbBdq6ajPvq6tk7W7TW6Ccb-m5rr7bcZAw7ae8GV0MSzg8N3FGfRzifHoTGZqGkU7RbtjfsPdKvXK7EaFVac7cU9a5enhbqXRLYTlLgDrk3gY3FS4la24SDu3dGjSM+G9fXKe3PS2O4Te1O-flW1TVaP8dWdc6xa3o8uJvOpwaZ4mApOBUvN-2tWGRRH0aTc8ZW0dcTYmwfC0eSc-y6epxqB0K19sg6+IIbgvLg8SHCogGIr4KgymBOAQXBSRAA"><strong>qui</strong></a>.</p>
 <h2 id="playtester">Playtester</h2>
-<p>Hanno partecipato insieme a me al collaudo del gioco: <strong>Cristiano Carnevale</strong>, <strong>Leonardo Catenacci</strong>, <strong>Silvia Jo Esposito</strong> e <strong>Alberta Piantieri</strong>. Grazie!</p>
+<p>Hanno partecipato insieme a me al collaudo del gioco: <em>Cristiano Carnevale</em>, <em>Leonardo Catenacci</em>, <em>Silvia Jo Esposito</em> e <em>Alberta Piantieri</em>. Grazie!</p>
 <h1 id="cambiamenti">Cambiamenti</h1>
+<h2 id="v04">v0.4</h2>
+<p>Il nome del gioco cambia di nuovo e stavolta diventa <em>Eigenlicht</em>. I livelli diventano 10. Piccole modifiche al testo e pulizie varie.</p>
 <h2 id="v03">v0.3</h2>
-<p>Il gioco cambia nome in <em><strong>Eigengrau</strong></em>. Sparisce l'illustrazione e la scheda del personaggio diventa la copertina del &quot;manuale&quot;. Ora, affinché un dado espressione possa passare di taglia, è necessario prima superare una &quot;prova&quot;. Inserita una procedura in 5 punti per la creazione degli scenari. Piccoli cambiamenti nella formulazione di alcune frasi.</p>
+<p>Il gioco cambia nome in <em>Eigengrau</em>. Sparisce l'illustrazione e la scheda del personaggio diventa la copertina del &quot;manuale&quot;. Ora, affinché un dado espressione possa passare di taglia, è necessario prima superare una &quot;prova&quot;. Inserita una procedura in 5 punti per la creazione degli scenari. Piccoli cambiamenti nella formulazione di alcune frasi.</p>
 <h2 id="v02">v0.2</h2>
 <p>Seconda versione del gioco e prima versione rilasciata pubblicamente. Passaggio a un altro tipo di numerazione della versione e modifiche alla formulazione di alcune frasi.</p>
 <h2 id="v01">v0.1</h2>
 <p>Prima versione, rilasciata solo privatamente.</p>
 <hr />
-<p><em>Eigengrau</em> - Gioco di ruolo analogico - <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a></p>
+<p><em>Eigenlicht</em> - Gioco di ruolo analogico - <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a></p>
 </body>
 </html>

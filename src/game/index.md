@@ -1,10 +1,8 @@
-# ***Eigengrau***
+# ***Eigenlicht***
 
 ## **Gioco di ruolo analogico**
 
-![foto.png](https://nextcloud03.webo.hosting/s/ZBg8HWLn5dbWJ5w/download/foto.jpg)
-
-> **Versione 0.3 – 26 gennaio 2025**
+![photo](../img/photo.png)
 
 ## Di che si tratta?
 
@@ -28,9 +26,9 @@ Con più partecipanti, una persona deve giocare come arbitro, facendo così da t
 
 ## Come si crea un personaggio principale?
 
-Un personaggio principale è caratterizzato da quattro espressioni: atletica, combattimento, furtività e volontà. Ciascuna va associata a un dado espressione: all’inizio, vanno assegnati due d4, un d6 e un d8 (più facce ha il dado e meglio è).
+Un personaggio principale è caratterizzato da quattro espressioni: atletica, combattimento, furtività e volontà. Ciascuna va legata a un dado espressione: all’inizio, vanno assegnati due d4, un d6 e un d8 (più facce ha un dado e meglio è).
 
-Un simile personaggio ha poi un livello da 1 a 4: più è alto il suo livello e più quel personaggio è in qualche modo potente. Ogni livello dà un dado livello: d4 al 1°, d6 al 2°, d8 al 3° e d10 al 4°.
+Un simile personaggio ha poi un livello da 1 a 10: più è alto il suo livello e più quel personaggio è in qualche modo potente. Ogni livello dà un dado livello: d4 dal 1° al 3°, d6 dal 4° al 6°, d8 dal 7° al 9° e d10 al 10°.
 
 Vanno quindi decise un’occupazione, ossia la sua professione o attività, e un’organizzazione a cui legarlo e da cui può trarre supporto e contatti.
 
@@ -68,21 +66,21 @@ Il dado livello, invece, “cresce” in automatico di una taglia alla fine di o
 
 ## Come si prepara uno scenario?
 
-Per scrivere uno scenario da portare in gioco basta sviluppare i cinque punti qui in basso, mantenendosi però sempre coerenti con i canoni estetici dell’ambientazione condivisa:
+Per scrivere uno scenario da portare in gioco si possono sviluppare i cinque punti qui in basso rispettando i canoni estetici dell’ambientazione:
 
-1. LUOGO: la località del mondo di gioco che ospiterà lo scenario. *Esempio*: *l’Oasi della Sfinge, un remoto rifugio nel vasto Deserto delle Gobbe.*
+1. LUOGO: la località del mondo di gioco che ospiterà lo scenario. __Esempio__: *l’Oasi della Sfinge, un remoto rifugio nel Deserto delle Gobbe.*
 2. PROBLEMA: la posta in gioco nel luogo, contesa tra personaggi e/o fazioni. __Esempio__: *l’unica sorgente d’acqua dell’oasi*.
-3. CAST: alcuni personaggi coinvolti nel problema e definiti da un nome e tre tratti. __Esempio__: *Tima \[pallida, sospettosa, cartomante\]*.
+3. CAST: alcuni personaggi coinvolti nel problema e definiti da un nome e tre tratti. __Esempio__: *Timaz \[esile, sensibile, cartomante\], Xamaj \[imponente, sleale, alchimista\]*.
 4. NOMI: qualche nome assegnabile ad altri personaggi che potrebbero unirsi al cast. __Esempio__: *Atarbus, Dara, Gur, Lilinai, Oru, Pladio*.
 5. MAPPA: una mappa, anche testuale, che dia un’idea dell’area dello scenario. __Esempio__:
 
-  *+--------------+                +-------------+	           +---------+*
+  *+---------------+-------+---------------+*
 
-  *|      Sorgente       |--------|     Villaggio     |--------|   Antica    |*
+  *|  Oasi  |  (1 ora di cammino)  |  Sorgente  |*
 
-  *|       d’acqua         |   1 ora    |      dell’oasi     |   1 ora    |   Sfinge    |*
+  *|  (villaggio) |-------|  (pozzo)    |*
 
-  *+--------------+                +-------------+	            +---------+*
+  *+---------------+-------+---------------+*
 
 ## Come si risolvono le azioni rischiose?
 
@@ -116,10 +114,16 @@ Per affidare una risposta alla sorte, tirare un d12:
 |---------|-------|-----------|-----------|-------|---------|
 | No e 		 | No 		 | No, ma 		 | Sì, ma 		 | Sì 		 | Sì e 		 |
 
-
 ## Scheda del personaggio
-Una scheda del personaggio è disponibile scaricando l'[ultima release](https://github.com/Medusa/eigengrau/releases/latest) del gioco.
+
+Una scheda del personaggio è inclusa nell'[ultima release](https://github.com/medusa/eigenlicht/releases/latest) del gioco.
 
 ## Licenza e attribuzioni
 
-[Francesco Catenacci](https://github.com/Medusa) – 2025 – [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it). Redatto con [*Nextcloud Office*](https://nextcloud.com/it/office/). Basato su [*Journeyman*](https://neverendingpretending.net/tag/journeyman-engine.html) di Zac Bir. PDF PocketMod creato con [*PocketMod Creator*](https://github.com/mullinscr/pocketmod-creator) di Callum Mullins. Repository clonato da [*microsr*](https://github.com/brunobord/microsr) di Bruno Bord.
+[Francesco Catenacci](https://github.com/medusa) – 2025 – [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it). V0.4 (25.01.2025) scritta con [*Nextcloud Office*](https://nextcloud.com/it/office).
+
+Basato su [*Journeyman*](https://neverendingpretending.net/tag/journeyman-engine.html) di Zac Bir.
+
+PDF PocketMod creato con [*PocketMod Creator*](https://github.com/mullinscr/pocketmod-creator) di Callum Mullins.
+
+Repository clonato da [*microsr*](https://github.com/brunobord/microsr) di Bruno Bord.

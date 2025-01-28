@@ -2,7 +2,7 @@ build:
 	# HTML index
 	pandoc \
 		-f gfm+hard_line_breaks-ascii_identifiers \
-		--metadata=pagetitle:"Eigengrau — Gioco di ruolo analogico" \
+		--metadata=pagetitle:"Eigenlicht - Gioco di ruolo analogico" \
 		-t html \
 		-s \
 		--css style.css \
@@ -10,19 +10,21 @@ build:
 	# The Game
 	pandoc \
 		-f gfm+hard_line_breaks-ascii_identifiers \
-		--metadata=pagetitle:"Eigengrau — Regolamento" \
+		--metadata=pagetitle:"Eigenlicht - Gioco di ruolo analogico" \
 		-t html \
 		-s \
 		--css ../style.css \
 		src/game/index.md src/_footer.md > docs/game/index.html
-	# Design note + Changelog
+	# Design notes + Changelog
 	pandoc \
 		-f gfm+hard_line_breaks-ascii_identifiers \
-		--metadata=pagetitle:"Nota di design & Registro delle modifiche" \
+		--metadata=pagetitle:"Eigenlicht - Gioco di ruolo analogico" \
 		-t html \
 		-s \
 		--css ../style.css \
 		src/notes/index.md changelog.md src/_footer.md > docs/notes/index.html
+	# Copy images
+	cp src/img/* docs/img/
 
 serve:
 	@echo "Serving http://127.0.0.1:8000/"
