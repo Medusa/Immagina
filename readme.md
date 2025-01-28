@@ -4,7 +4,7 @@
 
 > Gioco di ruolo analogico.
 
-*Eingenlicht* è un gioco di ruolo analogico che enfatizza meccaniche minimali e massima fiducia al tavolo.
+*Eigenlicht* è un gioco di ruolo analogico che enfatizza meccaniche minimali e massima fiducia al tavolo.
 
 ## Licenza e attribuzioni
 
