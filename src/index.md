@@ -12,4 +12,4 @@
 
 * [Regolamento](game/)
 * [Note di design & Registro delle modifiche](notes/)
-* [Ultima release](https://github.com/Medusa/eigenlicht/releases/latest)
+* [Ultima release](https://github.com/medusa/eigenlicht/releases/latest)
